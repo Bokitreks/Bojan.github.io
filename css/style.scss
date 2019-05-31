@@ -611,7 +611,7 @@ body{
         width: 100%;
         background-color: black;
         color: white;
-
+         
         #kontakt{
             width: 90%;
             margin: 0% auto;
@@ -729,6 +729,23 @@ body{
                     }
                 }
             }
+        }
+        #useful{
+              width:30%;
+                font-size: 3em;
+                padding-bottom: 1em;          
+              
+                a{
+                    text-decoration: none;
+                    color:white;
+                    margin-left: 1em;
+                    transition: 1s;
+
+                    &:hover{
+                        color:tomato;
+                    }
+                }
+                
         }
     }
 }
