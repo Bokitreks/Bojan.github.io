@@ -84,7 +84,7 @@ body #naslov nav ul li a:hover {
 
 body #glavni {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   background-image: url(../images/ba5.jpg);
   background-size: cover;
   background-position: center;
